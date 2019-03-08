@@ -51,7 +51,6 @@
     "webpack": "2.2.0-rc.2"
   },
   "optionalDependencies": {
-    "@telnyx/rtc-mocks": "^1.0.3",
     "sip.js": "^0.7.7"
   },
   "publishConfig": {
